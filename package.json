@@ -1,0 +1,14 @@
+{
+  "name": "parcel-problem",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "repro": "parcel build --no-cache index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ungap/global-this": "^0.4.3",
+    "parcel": "2.0.0-nightly.540"
+  }
+}
